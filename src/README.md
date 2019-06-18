@@ -19,7 +19,7 @@ I tried using `react-infinite-scroll-component` but kept getting problems becaus
 
 ## Running the app
 Start by cloning the repo, duh!  
-`git clone`  
+`git clone https://github.com/ElyasAktaou/UR-Front-End-Challenge.git`  
 Install dependencies using npm  
 `npm install`  
 or yarn  
