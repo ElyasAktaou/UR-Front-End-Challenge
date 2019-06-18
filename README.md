@@ -18,8 +18,8 @@ This was done from scratch following on a good tutorial.
 I tried using `react-infinite-scroll-component` but kept getting problems because it kept sending all the requests at the same time... A few hours later it was time to move on.
 
 ## Running the app
-Start by cloning the repo, duh!
-`git clone`  
+Start by cloning the repo, duh!  
+`git clone https://github.com/ElyasAktaou/UR-Front-End-Challenge.git`  
 Install dependencies using npm  
 `npm install`  
 or yarn  
